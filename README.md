@@ -9,6 +9,16 @@
                                                                                        |___/       
 ```
 
+<a href="https://iankavanagh.me/">
+  <img src="https://img.shields.io/badge/-iankavanagh.me-FF7139?style=flat-square&amp;labelColor=FF7139&amp;logo=FireFox&amp;logoColor=white&amp;link=https://iankavanagh.me" alt="Website">
+</a>
+<a href="https://www.linkedin.com/in/ikavanagh//">
+  <img src="https://img.shields.io/badge/-@ikavanagh-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/ikavanagh/" alt="LinkedIn">
+</a> 
+<a href="https://github.com/IKavanagh">
+  <img src="https://img.shields.io/badge/-@ikavanagh-16A147?style=flat-square&amp;labelColor=16A147&amp;logo=GitHub&amp;link=https://github.com/IKavanagh" alt="GitHub">
+</a> 
+
 I'm currently a Senior Software Engineer at <a href="https://azyra.com">Azyra</a> based in Dublin. I work on the Azyra CI system and as Head of Technical Recruitment.
 
 ## ⚡️ A Few Quick Facts
@@ -35,7 +45,7 @@ I'm currently a Senior Software Engineer at <a href="https://azyra.com">Azyra</a
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" height="30" width="30" />
 </p>
   
-## 🔨 Some Tools I Used in the Past
+## 🔨 Some Tools I've Used in the Past
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" alt="C" height="30" width="30" />

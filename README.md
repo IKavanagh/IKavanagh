@@ -9,6 +9,9 @@
                                                                                        |___/       
 ```
 
+I'm currently a Senior Software Engineer at <a href="https://azyra.com">Azyra</a> based in Dublin. I work on the Azyra CI system and as Head of Technical Recruitment.
+
+<p align="center">
 <a href="https://iankavanagh.me/">
   <img src="https://img.shields.io/badge/-iankavanagh.me-FF7139?style=flat-square&amp;labelColor=FF7139&amp;logo=FireFox&amp;logoColor=white&amp;link=https://iankavanagh.me" alt="Website">
 </a>
@@ -18,8 +21,7 @@
 <a href="https://github.com/IKavanagh">
   <img src="https://img.shields.io/badge/-@ikavanagh-16A147?style=flat-square&amp;labelColor=16A147&amp;logo=GitHub&amp;link=https://github.com/IKavanagh" alt="GitHub">
 </a> 
-
-I'm currently a Senior Software Engineer at <a href="https://azyra.com">Azyra</a> based in Dublin. I work on the Azyra CI system and as Head of Technical Recruitment.
+</p>
 
 ## ⚡️ A Few Quick Facts
 

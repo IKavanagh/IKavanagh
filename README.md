@@ -9,8 +9,18 @@
                                                                                        |___/       
 ```
 
+I'm currently a Senior Software Engineer at <a href="https://azyra.com">Azyra</a> based in Dublin. I work on the Azyra CI system and as Head of Technical Recruitment.
+
+## ⚡️ A Few Quick Facts
+
+- 🎓 I have a PhD in Electronic Engineering
+- 📖 My <a href="https://iankavanagh.me#publications">thesis<a> was written on *"Accurate and efficient full-wave modelling for indoor radio wave propagation"*
+- 🐶 My 10 year old labrador, Toby, is my best fried
+- 🚀 I like building Lego Star Wars spaceships and playing Pokémon games
+- 📙 Check out my <a href="https://iankavanagh.me">resume</a>
 
 
+  
 <!--
 **IKavanagh/IKavanagh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

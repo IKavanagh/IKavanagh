@@ -19,7 +19,7 @@ I'm currently a Senior Software Engineer at <a href="https://azyra.com">Azyra</a
   <img src="https://img.shields.io/badge/-@ikavanagh-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/ikavanagh/" alt="LinkedIn">
 </a> 
 <a href="https://github.com/IKavanagh">
-  <img src="https://img.shields.io/badge/-@ikavanagh-16A147?style=flat-square&amp;labelColor=16A147&amp;logo=GitHub&amp;link=https://github.com/IKavanagh" alt="GitHub">
+  <img src="https://img.shields.io/badge/-@ikavanagh-121011?style=flat-square&amp;labelColor=121011&amp;logo=GitHub&amp;link=https://github.com/IKavanagh" alt="GitHub">
 </a> 
 </p>
 

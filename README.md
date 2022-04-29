@@ -9,7 +9,7 @@
                                                                                        |___/       
 ```
 
-I'm currently a Senior Software Engineer at <a href="https://azyra.com">Azyra</a> based in Dublin. I work on the Azyra CI system and as Head of Technical Recruitment.
+I'm currently Director and Senior Software Engineer at <a href="https://azyra.com">Azyra</a> based in Dublin. I work on the Azyra CI system and as Head of Technical Recruitment.
 
 <p align="center">
 <a href="https://iankavanagh.me/">

@@ -27,7 +27,7 @@ I'm currently Director and Senior Software Engineer at <a href="https://azyra.co
 
 - 🎓 I have a PhD in Electronic Engineering
 - 📖 My <a href="https://iankavanagh.me#publications">thesis<a> was written on *"Accurate and efficient full-wave modelling for indoor radio wave propagation"*
-- 🐶 My 10 year old labrador, Toby, is my best fried
+- 🐶 My 10 year old labrador, Toby, is my best friend
 - 🚀 I like building Lego Star Wars spaceships and playing Pokémon games
 - ⚒️ I enjoy making things like the "<a href="https://youtu.be/IiGsVVpq9U4">*World's Most Effective Alarm Clock*</a>"
 - 📙 Check out my <a href="https://iankavanagh.me">resume</a>

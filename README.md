@@ -9,7 +9,7 @@
                                                                                        |___/       
 ```
 
-I'm currently Director and Senior Software Engineer at <a href="https://azyra.com">Azyra</a> based in Dublin. I work on the Azyra CI system and as Head of Technical Recruitment.
+I'm currently Head of Technology at <a href="https://npi.ie">NPI</a> based in Dublin. I work on the buddy platform for NPI.
 
 <p align="center">
 <a href="https://iankavanagh.me/">

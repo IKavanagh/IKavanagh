@@ -1,4 +1,4 @@
-```
+```text
   _    _ _     _____ _             _____              _  __                                  _     
  | |  | (_)   |_   _( )           |_   _|            | |/ /                                 | |    
  | |__| |_      | | |/ _ __ ___     | |  __ _ _ __   | ' / __ ___   ____ _ _ __   __ _  __ _| |__  
@@ -9,73 +9,66 @@
                                                                                        |___/       
 ```
 
-I'm currently Head of Technology at <a href="https://npi.ie">NPI</a> based in Dublin. I work on the buddy platform for NPI.
+I'm currently **Head of Technology at Infinite Payment Technology** based in Dublin, after transitioning from NPI in October 2025.  
+I lead delivery of a brand-new platform in a bootstrapped startup environment.
 
-<p align="center">
+<p>
 <a href="https://iankavanagh.me/">
-  <img src="https://img.shields.io/badge/-iankavanagh.me-FF7139?style=flat-square&amp;labelColor=FF7139&amp;logo=FireFox&amp;logoColor=white&amp;link=https://iankavanagh.me" alt="Website">
+  <img src="https://img.shields.io/badge/-iankavanagh.me-FF7139?style=flat-square&amp;labelColor=FF7139&amp;logo=Firefox&amp;logoColor=white&amp;link=https://iankavanagh.me">
 </a>
-<a href="https://www.linkedin.com/in/ikavanagh//">
-  <img src="https://img.shields.io/badge/-@ikavanagh-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/ikavanagh/" alt="LinkedIn">
+<a href="https://www.linkedin.com/in/ikavanagh/">
+  <img src="https://img.shields.io/badge/-@ikavanagh-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/ikavanagh/">
 </a> 
 <a href="https://github.com/IKavanagh">
-  <img src="https://img.shields.io/badge/-@ikavanagh-121011?style=flat-square&amp;labelColor=121011&amp;logo=GitHub&amp;link=https://github.com/IKavanagh" alt="GitHub">
+  <img src="https://img.shields.io/badge/-@ikavanagh-121011?style=flat-square&amp;labelColor=121011&amp;logo=GitHub&amp;link=https://github.com/IKavanagh">
 </a> 
 </p>
 
 ## ⚡️ A Few Quick Facts
 
 - 🎓 I have a PhD in Electronic Engineering
-- 📖 My <a href="https://iankavanagh.me#publications">thesis<a> was written on *"Accurate and efficient full-wave modelling for indoor radio wave propagation"*
-- 🐶 My 10 year old labrador, Toby, is my best friend
-- 🚀 I like building Lego Star Wars spaceships and playing Pokémon games
-- ⚒️ I enjoy making things like the "<a href="https://youtu.be/IiGsVVpq9U4">*World's Most Effective Alarm Clock*</a>"
-- 📙 Check out my <a href="https://iankavanagh.me">resume</a>
+- 🚀 I lead the development organisation building our MVP product
+- 🤖 I’m driving AI agent adoption through a software factory approach with practical guardrails and safeguards
+- 👥 I’ve grown the development department to 40 people across 5 development teams, plus QA, BA, platform/cloud, and UX teams
+- 🏗️ I’m leading the move to a more structured operating model as we prepare for launch
+- ✅ I led successful PCI DSS compliance delivery
+- 📙 Check out my [resume](https://iankavanagh.me)
 
 ## 🔧 Some Tools I Use
   
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" alt="C#" height="30" width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain.svg" alt=".NET" height="30" width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt=".NET Core" height="30" width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="Microsoft SQL Server" height="30" width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" height="30" width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" height="30" width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure" height="30" width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-plain.svg" alt="Vim" height="30" width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" height="30" width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" height="30" width="30" />
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" width="30" alt="TypeScript">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="30" width="30" alt="NestJS">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" width="30" alt="Next.js">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" width="30" alt="Node.js">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="30" width="30" alt="AWS">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" width="30" alt="git">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="30" width="30" alt="PostgreSQL">     
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" width="30" alt="GitHub">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" width="30" alt="VSCode">
 </p>
   
 ## 🔨 Some Tools I've Used in the Past
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" alt="C" height="30" width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" alt="C++" height="30" width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Jave" height="30" width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" alt="HTML5" height="30" width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" alt="CSS3" height="30" width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" height="30" width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" height="30" width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" alt="PHP" height="30" width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" alt="Matlab" height="30" width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" alt="LaTeX" height="30" width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mySQL" height="30" width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="Arduino" height="30" width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" alt="Raspberry Pi" height="30" width="30" />
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" height="30" width="30" alt="C#">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain.svg" height="30" width="30" alt=".NET">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="30" width="30" alt=".NET Core">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" height="30" width="30" alt="MS SQL Server">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" width="30" alt="Azure">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="30" width="30" alt="Visual Studio">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-plain.svg" height="30" width="30" alt="Vim">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" width="30" alt="C">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" height="30" width="30" alt="C++">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" width="30" alt="Java">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="30" width="30" alt="HTML5">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height="30" width="30" alt="CSS3">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="30" alt="JavaScript">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" width="30" alt="Bootstrap">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" height="30" width="30" alt="PHP">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="30" width="30" alt="Matlab">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" height="30" width="30" alt="LaTeX">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="30" width="30" alt="MySQL">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" width="30" alt="Arduino">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="30" width="30" alt="RaspberryPi">
 </p>
-  
-<!--
-**IKavanagh/IKavanagh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
